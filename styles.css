@@ -1,0 +1,79 @@
+body {
+    background-color: #fdfbf8;
+    background-image: url(assets\fondo.png);
+}
+
+section{
+    
+    color: #fff6ed;
+}
+
+.BigTitle {
+    color: white;
+    font-weight: bolder;
+    font-size: 280PX;
+    text-align: center;
+    font-family: "Darumadrop One";
+    margin: 1px;
+    padding: 0%;
+    
+}
+
+.SmallTitle {
+    color: black;
+    background-color: rgb(176, 224, 230);
+    font-size: 60PX;
+    text-align: center;
+    font-family: "Darumadrop One";
+    
+}
+
+.title{
+    color: black;
+    font-size: 60PX;
+    text-align: center;
+    font-family: "Darumadrop One";
+}
+
+.SmallText{
+    color: black;
+    background-color: antiquewhite;
+    font-weight: bolder;
+    font-size: 30PX;
+    text-align: center;
+    
+}
+
+.text{
+    color: black;
+    font-weight: normal;
+    font-size: 30PX;
+    text-align: center;
+    font-family: "Darumadrop One";
+}
+
+.darumadrop-one-regular {
+    font-family: "Darumadrop One", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  
+.LogoIhmSmall{
+    height: 120px;
+    width: 100px;
+    margin: 2px;
+}
+
+.Logonavbar{
+    height: 60px;
+    width: 40px;
+}
+
+.lineas{
+    color: #d85f89 ;
+    font-weight: bolder;
+    font-size: 50PX;
+    text-align: center;
+    font-family: "Darumadrop One";
+}
